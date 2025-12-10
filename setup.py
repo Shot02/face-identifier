@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="face-identifier",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Otto Shalom",
+    author_email="shalomottodamilare@gmail.com",
     description="A clean, reusable face detection and recognition library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/face-identifier",
+    url="https://github.com/Shot02/face-identifier",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
